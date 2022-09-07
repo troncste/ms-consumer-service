@@ -1,0 +1,7 @@
+/Users/ivaylo_ivanov/work/ms-consumer-service/src/main/java/com/example/msconsumerservice/listener/StreamPosition.java
+/Users/ivaylo_ivanov/work/ms-consumer-service/src/main/java/com/example/msconsumerservice/listener/LeaderListener.java
+/Users/ivaylo_ivanov/work/ms-consumer-service/src/main/java/com/example/msconsumerservice/listener/MarketStreamCacheInitializerService.java
+/Users/ivaylo_ivanov/work/ms-consumer-service/src/main/java/com/example/msconsumerservice/listener/MarketStreamListenerImpl.java
+/Users/ivaylo_ivanov/work/ms-consumer-service/src/main/java/com/example/msconsumerservice/MsConsumerServiceApplication.java
+/Users/ivaylo_ivanov/work/ms-consumer-service/src/main/java/com/example/msconsumerservice/listener/MarketMessageHandler.java
+/Users/ivaylo_ivanov/work/ms-consumer-service/src/main/java/com/example/msconsumerservice/listener/MarketIdStreamOffset.java
